@@ -1,3 +1,12 @@
+*Trabalho da matéria de Estruturas de Dados e Algoritmos I, realizado por Alan Divino, Diego Carapiá, Ícaro Santana, Gabriel Andrade e Gustavo Mendel.*
+
+*Resumo do trabalho e apresentação no README no diretório src/, assim como o código principal.*
+
+*Abaixo a descrição e introdução do trabalho pelo professor da matéria, Antônio Apolinário.*
+
+---
+
+
 # Problema 2 - Ray Tracing de Curvas Implícitas
 
 ## O sistema de janelas
